@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee327157-9922-4cb0-b977-ed562065cbc4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prathamesh/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prathamesh/components/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/components/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prathamesh/util/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/util/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prathamesh/util/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/util/Image.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,5 +124,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
