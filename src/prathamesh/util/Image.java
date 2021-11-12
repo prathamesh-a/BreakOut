@@ -3,11 +3,11 @@ package prathamesh.util;
 import java.awt.*;
 
 public class Image {
-    int x;
-    int y;
-    int width;
-    int height;
-    Image image;
+    protected int x;
+    protected int y;
+    protected int width;
+    protected int height;
+    protected java.awt.Image image;
 
     public int getX() {
         return x;
@@ -33,16 +33,16 @@ public class Image {
         return height;
     }
 
-    public Image getImage() {
+    public java.awt.Image getImage() {
         return image;
     }
 
     public Rectangle getRectangle(){
-        return new Rectangle(x,y,image.getWidth(),image.getHeight());
+        return new Rectangle(x,y,image.getWidth(null),image.getHeight(null));
     }
 
     public void getDimension(){
-        width = image.getWidth();
-        height = image.getHeight();
+        width = image.getWidth(null);
+        height = image.getHeight(null);
     }
 }

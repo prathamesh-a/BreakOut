@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ee327157-9922-4cb0-b977-ed562065cbc4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prathamesh/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prathamesh/components/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/components/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prathamesh/components/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/components/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prathamesh/components/Brick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/components/Brick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prathamesh/components/Paddle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/components/Paddle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/prathamesh/util/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/util/Config.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/prathamesh/util/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/util/Image.java" afterDir="false" />
     </list>
