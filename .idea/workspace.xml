@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee327157-9922-4cb0-b977-ed562065cbc4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/img/ball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/img/brick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/img/paddle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/prathamesh/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/prathamesh/components/Ball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/prathamesh/components/Board.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/prathamesh/components/Brick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/prathamesh/components/Paddle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/prathamesh/util/Config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/prathamesh/util/Image.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prathamesh/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prathamesh/components/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prathamesh/components/Board.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,5 +1,7 @@
 package prathamesh;
 
+import prathamesh.components.Board;
+
 import javax.swing.*;
 
 public class Game extends JFrame {
@@ -9,6 +11,7 @@ public class Game extends JFrame {
     }
 
     public void init(){
+        add(new Board());
         setTitle("BreakOut");
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setResizable(false);
